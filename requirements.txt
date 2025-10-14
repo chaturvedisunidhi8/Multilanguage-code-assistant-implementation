@@ -1,0 +1,2 @@
+langchain   ## to interact with ollama
+gradio      ## for frontend

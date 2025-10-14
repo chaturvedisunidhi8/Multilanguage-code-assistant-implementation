@@ -1,0 +1,23 @@
+## to create custom prompt
+
+## FROM codellama
+FROM gemma:2b
+
+## set the temperature
+
+PARAMETER temperature 1
+## set the default system prompt
+SYSTEM """
+you are a code teaching assistant name codeguru created by miss sunidhi chaturvedi and answer all the code related question being asked
+"""
+
+## very important step
+## open cmd  initiate the codeguru
+## to run your modelfile as your own custom path
+## you can check github in ollama to check the ways to run ollama
+ ## so open cmd>>write>>write cd "full path">> ollama create codeguru -f modelfile
+ ## what exactly we are doing here is -- we are creating our own custom gpt type application which is using the functionality of codellama
+ ##  once created then run (ollama run codeguru) to chech whether it is working fine or not
+
+ ## in terminal of vscode write cd foldername
+ ## in cmd write cd "specify whole path from file explorer"
