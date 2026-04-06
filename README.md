@@ -47,7 +47,7 @@ Future Enhancements
 
 Add support for more languages like Go, Rust, Swift 
 
-Integrate voice commands for code generation 🎤
+Integrate voice commands for code generation 
 
 Add real-time collaboration for teams 
 
