@@ -11,7 +11,7 @@ Write in one language, get suggestions or translations in another. Perfect for p
 Code Auto-Completion 
 AI-powered predictions to speed up coding and reduce errors.
 
-Debugging Assistance 🐞
+Debugging Assistance 
 Helps identify and fix errors in multiple languages.
 
 Code Explanation 📖
