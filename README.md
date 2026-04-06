@@ -33,7 +33,7 @@ Web Frontend: Streamlit / React ⚛️
 
 Database (Optional): SQLite / PostgreSQL 🗄️
 
-Why This Project is Useful 🌟
+Why This Project is Useful 
 
 Speeds up development for multilingual coding teams.
 
