@@ -29,7 +29,7 @@ Python & LangChain
 
 OpenAI / GPT API 
 
-Web Frontend: Streamlit / React ⚛️
+Web Frontend: Streamlit / React 
 
 Database (Optional): SQLite / PostgreSQL 
 
