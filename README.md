@@ -27,7 +27,7 @@ Technologies Used
 
 Python & LangChain 
 
-OpenAI / GPT API 🤖
+OpenAI / GPT API 
 
 Web Frontend: Streamlit / React ⚛️
 
