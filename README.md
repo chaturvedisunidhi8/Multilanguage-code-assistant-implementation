@@ -45,7 +45,7 @@ Helps in maintaining code consistency across projects.
 
 Future Enhancements 🚀
 
-Add support for more languages like Go, Rust, Swift 🦀🍏
+Add support for more languages like Go, Rust, Swift 🦀
 
 Integrate voice commands for code generation 🎤
 
