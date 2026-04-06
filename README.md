@@ -51,7 +51,7 @@ Integrate voice commands for code generation 🎤
 
 Add real-time collaboration for teams 👥
 
-Fun Stickers for Your Project README 😎
+Fun Stickers for Your Project README 
 
 💡 Idea: Lightbulb for smart solutions
 
