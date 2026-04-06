@@ -1,7 +1,7 @@
  Multilanguage Code Assistant Implementation 
 Project Overview
 
-The Multilanguage Code Assistant is an intelligent tool designed to help developers write, debug, and understand code across multiple programming languages. It acts like a virtual coding companion, capable of translating logic, generating code snippets, and providing instant suggestions in languages like Python , Java ☕, JavaScript , C++ , and more.
+The Multilanguage Code Assistant is an intelligent tool designed to help developers write, debug, and understand code across multiple programming languages. It acts like a virtual coding companion, capable of translating logic, generating code snippets, and providing instant suggestions in languages like Python , Java , JavaScript , C++ , and more.
 
 Key Features ✨
 
