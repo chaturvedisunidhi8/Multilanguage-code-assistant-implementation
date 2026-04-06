@@ -20,7 +20,7 @@ Breaks down complex code into simple explanations for learning and documentation
 Code Conversion 🔄
 Convert algorithms from one programming language to another without rewriting from scratch.
 
-Interactive Console 🖥️
+Interactive Console 
 Test small snippets instantly and get feedback on logic and syntax.
 
 Technologies Used 
