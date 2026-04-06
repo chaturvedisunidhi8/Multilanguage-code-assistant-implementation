@@ -14,7 +14,7 @@ AI-powered predictions to speed up coding and reduce errors.
 Debugging Assistance 
 Helps identify and fix errors in multiple languages.
 
-Code Explanation 📖
+Code Explanation 
 Breaks down complex code into simple explanations for learning and documentation.
 
 Code Conversion 🔄
