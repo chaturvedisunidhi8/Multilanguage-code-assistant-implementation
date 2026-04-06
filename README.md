@@ -55,7 +55,7 @@ Fun Stickers for Your Project README
 
 💡 Idea: Lightbulb for smart solutions
 
-🐍 Python, ☕ Java, ⚡ JS, 🖥️ C++: Language icons
+🐍 Python, ☕ Java, ⚡ JS,  C++: Language icons
 
 🔮 Auto-completion: Magic wand
 
