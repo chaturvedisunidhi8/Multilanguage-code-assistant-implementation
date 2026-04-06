@@ -23,7 +23,7 @@ Convert algorithms from one programming language to another without rewriting fr
 Interactive Console 🖥️
 Test small snippets instantly and get feedback on logic and syntax.
 
-Technologies Used 🛠️
+Technologies Used 
 
 Python & LangChain 🐍
 
