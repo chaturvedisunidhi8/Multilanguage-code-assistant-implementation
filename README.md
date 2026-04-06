@@ -5,7 +5,7 @@ The Multilanguage Code Assistant is an intelligent tool designed to help develop
 
 Key Features ✨
 
-Multilanguage Support 🌍
+Multilanguage Support 
 Write in one language, get suggestions or translations in another. Perfect for polyglot developers!
 
 Code Auto-Completion 🔮
