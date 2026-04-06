@@ -31,7 +31,7 @@ OpenAI / GPT API 🤖
 
 Web Frontend: Streamlit / React ⚛️
 
-Database (Optional): SQLite / PostgreSQL 🗄️
+Database (Optional): SQLite / PostgreSQL 
 
 Why This Project is Useful 
 
