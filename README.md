@@ -8,7 +8,7 @@ Key Features
 Multilanguage Support 
 Write in one language, get suggestions or translations in another. Perfect for polyglot developers!
 
-Code Auto-Completion 🔮
+Code Auto-Completion 
 AI-powered predictions to speed up coding and reduce errors.
 
 Debugging Assistance 🐞
