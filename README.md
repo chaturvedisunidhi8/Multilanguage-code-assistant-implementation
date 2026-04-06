@@ -25,7 +25,7 @@ Test small snippets instantly and get feedback on logic and syntax.
 
 Technologies Used 
 
-Python & LangChain 🐍
+Python & LangChain 
 
 OpenAI / GPT API 🤖
 
